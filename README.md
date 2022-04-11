@@ -1,2 +1,8 @@
 # Ecops-vs-Covid19
-Generally, many crimes seen by the public will not reach to the police due to many reasons like fear, Lack of time, Ignorance. Due to this reason many cases are not even reaching the police station. Though some cases are registered they are not investigated properly due to lack of evidences and Cooperation of the public. This software helps the public to report about the crimes to the police without any fear in correct time. This is helpful to police in solving the cases. This is also helpful for higher authorities of police to have an overview about the progress of the investigation.
+An online solution is very useful as the solution is inherently distributive.
+Without any fear people or users can lodge a complaint on right time.
+People who spot unlawful acts during acts during Covid-19 can report to the control room by signing in our software.
+They can attach some pictures or videos or documents as a proof.
+Our software is connected with the control room so that they can track the address and transfer the complaint to the respected police station of particular area.
+Generation of complaint-id for every complaint that has been lodged is done in our system.
+Plans are afoot to embed multi-purpose technologies such as traffic management, mobile data techniques, warrants, personnel scheduling, gang activity analysis, field reporting, human resource development of police personnel, etc.
